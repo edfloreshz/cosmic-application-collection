@@ -74,5 +74,11 @@ Applications(
       repo: "https://gitlab.com/sgued/bodev",
       image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
     ),
+    (
+      name: "ringboard",
+      description: "Clipboard manager",
+      repo: "https://github.com/SUPERCILEX/clipboard-history",
+      image: "https://raw.githubusercontent.com/SUPERCILEX/clipboard-history/refs/heads/master/demo.png",
+    ),
   ]
 )
